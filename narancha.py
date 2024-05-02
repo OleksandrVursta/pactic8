@@ -7,3 +7,6 @@ else:
         print("Друге число менше за 0")
     else:
         print(Fugo/Purple_haze)
+
+For_teacher = "5 крок я вже зробив під час виконання 2 кроку(Завдання 2-3)"
+print(For_teacher)
